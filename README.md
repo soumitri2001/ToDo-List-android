@@ -1,2 +1,2 @@
-# ToDo-List-android
-The classic ToDo List, made using RoomDB, SQLite and MVVM architecture 
+# TODO List
+The classic ToDo List application, made using RoomDB, SQLite and MVVM architecture 
